@@ -112,6 +112,10 @@
         font-size: 18px;
         text-align: center;
     }
+
+    .baner_img_left img {
+        width: 100%;
+    }
 }
 
 @media (max-width: 576px) {
@@ -178,9 +182,7 @@
         padding: 10px;
     }
 
-    .baner_img_left img {
-        width: 100%;
-    }
+   
 
 }
 
