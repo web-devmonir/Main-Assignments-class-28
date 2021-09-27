@@ -1,0 +1,156 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+p,
+a {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* =============== header_section ============== */
+
+.header_section {
+    background-color: #fff !important;
+    padding: 10px;
+}
+
+.header_section .navber_right {
+    flex-grow: 0 !important;
+    font-size: 17px;
+}
+
+.header_section img {
+    width: 52%;
+}
+
+.header_section .nav-item {
+    padding: 5px 8px;
+}
+
+/* =============== banar section ============== */
+
+.baner_section .baner_text_right {
+    padding: 150px 10px 150px 0px;
+}
+
+.baner_text_right h5 {
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.baner_text_right h2 {
+    font-size: 50px;
+    font-weight: 400;
+    padding: 20px 0;
+}
+
+.baner_text_right p {
+    font-size: 17px;
+}
+
+.baner_text_right button {
+    border: none;
+    padding: 8px 16px;
+    background-color: #8490ff;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 22px;
+}
+.baner_img_left img{
+    width: 75%;
+}
+
+/* =============== testmonial section ============== */
+.testmonial_section .baner_text_right {
+    padding: 75px 0;
+}
+
+.testmonial_section .testmonial_button {
+    font-weight: 400;
+}
+
+/* =============== number-counter section ==============  */
+
+.number_counter {
+    background-color: #8490ff;
+}
+
+
+/* =============== priceing_section ============== */
+.priceing_section .priceing_top_p {
+    font-size: 17px;
+}
+
+
+.priceing_section .priceing_item {
+    line-height: 2.7rem;
+}
+
+.priceing_section .priceing_item span {
+    padding: 32px;
+}
+
+.priceing_section .priceing_item button {
+    border: 1px solid #8490ff;
+    padding: 5px 45px;
+    background-color: transparent;
+    color: #8490ff;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 22px;
+    outline: none;
+    box-shadow: 0px 0px 15px rgba(132, 144, 255, 0.4);
+}
+
+.priceing_section .frist_p {
+    font-size: 14px;
+}
+
+
+/* =============== blog_section ============== */
+
+.blog_section {
+    padding-top: 100px !important;
+}
+
+.blog_section img {
+    margin-top: -140px;
+    margin-left: -24px;
+    width: 100px;
+}
+
+.blog_section button {
+    border: none;
+    padding: 6px 20px;
+}
+
+
+
+
+/* =============== contact_section ==============  */
+.from_section {
+    background-color: #fff;
+    padding: 45px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px rgba(132, 144, 255, 0.4);
+}
+
+.contact_section .cuntact_content_warapper {
+    margin-top: 100px;
+    line-height: 1.9rem;
+    font-size: 17px;
+}
+
+.contact_section form .button {
+    background-color: #17a2b8;
+    color: #fff;
+    padding: 10px 19px !important;
+    font-size: 18px;
+    margin-top: 12px;
+}

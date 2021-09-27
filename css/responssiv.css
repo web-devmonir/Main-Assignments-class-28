@@ -1,0 +1,187 @@
+@media (min-width: 1400px) {}
+
+@media (min-width: 1200px) {
+
+    .baner_section .baner_text_right {
+        padding: 50px 10px 50px 0px;
+    }
+}
+
+
+
+@media (max-width: 992px) {
+
+    .baner_section .baner_text_right {
+        padding: 10px 10px 10px 0px;
+    }
+
+    .baner_text_right h2 {
+        font-size: 43px;
+        padding: 11px 0;
+    }
+
+    .header_section img {
+        width: 45%;
+    }
+
+    .header_section .navber_right {
+        font-size: 15px;
+    }
+
+    .baner_text_right button {
+        padding: 7px 12px;
+        font-size: 14px;
+    }
+
+    .baner_text_right p {
+        font-size: 16px;
+    }
+
+    .baner_text_right h5 {
+        font-size: 21px;
+    }
+
+    .testmonial_section .baner_text_right {
+        padding: 20px 0;
+    }
+
+    .baner_text_right h2 {
+        font-size: 35px;
+    }
+
+    .priceing_section .priceing_top_p {
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+
+    .priceing_section .priceing_item {
+        margin-top: 44px;
+    }
+
+    .priceing_section .priceing_item .priceing_item_wrapper {
+        padding: 22px 5px !important;
+    }
+
+    .priceing_section .priceing_item span {
+        padding: 28px;
+    }
+
+    .priceing_section .priceing_item .priceing_item_wrapper p {
+        font-size: 18px;
+        line-height: 31px;
+    }
+
+    .priceing_section .priceing_item button {
+        padding: 0px 38px;
+        margin-top: 19px;
+        font-size: 16px;
+    }
+
+    .priceing_section .frist_p {
+        font-size: 14px !important;
+    }
+
+    .contact_section .cuntact_content_warapper {
+        margin-top: 0px;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .baner_section .baner_text_right {
+        padding: 20px 5px 30px 5px;
+    }
+
+    .testmonial_section .testmonial_button {
+        margin-top: 10px;
+    }
+
+    .baner_text_right h2 {
+        font-size: 40px;
+        padding: 10px 0;
+    }
+
+    .testmonial_section .baner_text_right {
+        padding: 20px 0;
+    }
+
+    .contact_section .cuntact_content_warapper {
+        margin-top: 0px;
+        line-height: 1.2rem;
+        font-size: 18px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .testmonial_section .testmonial_button {
+        font-size: 14px;
+        margin-top: 12px;
+    }
+
+    .baner_text_right p {
+        font-size: 16px;
+    }
+
+    .baner_text_right h2 {
+        font-size: 32px;
+        padding: 8px 0;
+    }
+
+    .baner_text_right h5 {
+        font-size: 20px;
+    }
+
+    .testmonial_section .baner_text_right {
+        padding: 0px 10px;
+    }
+
+    .priceing_section .priceing_item {
+        line-height: 2rem;
+    }
+
+    .priceing_section .priceing_top_p {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .contact_section .cuntact_content_warapper {
+        margin-top: 0px;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .contact_section form .button {
+        width: 100%;
+    }
+
+    .baner_section .baner_text_right {
+        padding: 10px 10px 10px 0px;
+    }
+
+    .contact_section .cuntact_content_warapper {
+        margin-top: 0px;
+        text-align: center;
+    }
+
+    .contact_section form .button {
+        width: 100%;
+    }
+
+    .testmonial_section .baner_text_right {
+        padding: 0px 26px;
+    }
+
+    .baner_section .baner_text_right {
+        padding: 10px;
+    }
+
+    .baner_img_left img {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 300px) {}
